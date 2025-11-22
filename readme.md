@@ -124,7 +124,7 @@ Would you like to play again? (y/n): n
 Thanks for playing! Goodbye!
 
 ```
-## DOcumentation For Project
+## Documentation For Project
 Visit 
 [Documentation](/docs/documentation.md)
 
