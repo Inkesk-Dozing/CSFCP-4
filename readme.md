@@ -120,6 +120,7 @@ Congratulations! You guessed the number in 3 attempts.
 Would you like to play again? (y/n): n
 Thanks for playing! Goodbye!
 
+```
 
 ## Git Comamdns Used in this File
 [Git1](\Assets\git-cmd01.png)
