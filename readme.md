@@ -108,6 +108,9 @@ Here are common GitHub commands to work with this project repository:
 - Support multiplayer mode.
 
 ## Sample Interaction
+
+![Sample Interaction](/Assets/image.png)
+
 ```
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
